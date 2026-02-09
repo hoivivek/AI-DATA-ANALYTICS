@@ -4,7 +4,7 @@
 
 ## Features
 
-- **🤖 AI Chatbot** - Chat with OpenAI GPT-4 or Anthropic Claude with real-time streaming responses and **answers questions about your uploaded data!**
+- **🤖 AI Chatbot** - Chat with OpenAI GPT-4 or Anthropic Claude with real-time streaming responses and **answers questions about your uploaded data!** 
 - **📊 Data Analysis** - Upload CSV/JSON files for instant analysis with statistics and insights
 - **📈 Interactive Dashboard** - Dynamic visualizations with Plotly (bar charts, line charts, scatter plots, heatmaps, and more)
 - **☁️ API Tools** - Connect to REST APIs and external services
@@ -16,14 +16,26 @@
 ### Home Page
 Landing page with quick access to all features
 
+<img width="953" height="442" alt="home" src="https://github.com/user-attachments/assets/04ee2abf-5216-4de6-b7fe-ea1399ae6153" />
+
+
 ### AI Chatbot
 Real-time streaming responses from OpenAI or Anthropic Claude
+
+<img width="955" height="440" alt="chatbot" src="https://github.com/user-attachments/assets/886008b1-4451-4974-bff3-9a9ad31743cc" />
+
 
 ### Data Analysis
 Automatic statistics, filtering, and data exploration
 
+<img width="956" height="440" alt="DA" src="https://github.com/user-attachments/assets/673b16b0-3c31-4f3f-a578-5b34f4b8de83" />
+
+
 ### Dashboard
 Interactive visualizations that update based on your data
+
+<img width="953" height="440" alt="DASHBOARD" src="https://github.com/user-attachments/assets/7112d9ff-8deb-4247-9002-0e2a3a5e88ea" />
+
 
 ## Run Locally
 
@@ -154,6 +166,7 @@ ai-data-analytics/
 - Select provider (OpenAI or Anthropic)
 - Choose model (GPT-4, Claude 3.5 Sonnet, etc.)
 - **If you've uploaded data**: Ask questions about it! The chatbot automatically has access to your dataset
+- **Without data**: Use as a general-purpose AI assistant
 - Experience real-time streaming responses
 
 ### 4. Visualize Data
